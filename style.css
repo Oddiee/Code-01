@@ -56,7 +56,7 @@ color: transparent;
         height: auto;
     }
 }
-@media (max-aspect-ratio 16/9) {
+@media (max-aspect-ratio: 16/9) {
     .back-video {
         width: auto;
         height: 100%;
